@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*******************Test Description Covid-001 - Verify the web page loaded properly    **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Verify the page is loaded with the title of COVID-19 Tracker - India]]>
+    </line>
+    <line>
+      <![CDATA[Verify the page is loaded with the title of COVID-19 Tracker - India - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[verify the non location specified map is shown in base page]]>
+    </line>
+    <line>
+      <![CDATA[ Map is shown in base page- test Passed]]>
+    </line>
+    <line>
+      <![CDATA[*****************End of Test**************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*******************Test Description Covid-002 - Verify the drop down    **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[ Click dropdown]]>
+    </line>
+    <line>
+      <![CDATA[ Dropdown Enlarged - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[DropDown Box is expanded- Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Verify the 29 states field available in the drop down box]]>
+    </line>
+    <line>
+      <![CDATA[Verified the 29 states field available in the drop down box - Test Passed with ActualValue - 29]]>
+    </line>
+    <line>
+      <![CDATA[Click each & every field & verify the statiscs is updated for the every field]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Select a State]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Andhra Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Arunachal Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Assam]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Bihar]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Chhattisgarh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Goa]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Gujarat]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Haryana]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Himachal Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Jharkhand]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Karnataka]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Kerala]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Madhya Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Maharashtra]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Manipur]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Meghalaya]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Mizoram]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Nagaland]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Odisha]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Punjab]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Rajasthan]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Sikkim]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Tamil Nadu]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Telangana]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Tripura]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Uttar Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - Uttarakhand]]>
+    </line>
+    <line>
+      <![CDATA[Text values are - West Bengal]]>
+    </line>
+    <line>
+      <![CDATA[Clicked each & every field & verified the statiscs is  getting updated for the every field - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[*****************End of Test**************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*******************Test Description Covid-003 - Verify the footer elements   **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Scroll to page bottom]]>
+    </line>
+    <line>
+      <![CDATA[Verify footer Elements displayed]]>
+    </line>
+    <line>
+      <![CDATA[ footer Elements displayed -Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Click lealet ]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to the leaflet page -Test Passed with Title - Leaflet - a JavaScript library for interactive maps]]>
+    </line>
+    <line>
+      <![CDATA[Click Openstreetmap ]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to the Open Street Map -Test Passed with Title - Copyright and License | OpenStreetMap]]>
+    </line>
+    <line>
+      <![CDATA[*****************End of Test**************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*******************Test Description Covid-006 -Verify the Pie chart   **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Click random state  ]]>
+    </line>
+    <line>
+      <![CDATA[*******************Test Description Covid-007 - Verify  Zoom out and Zoom In Functions  in map  **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Click random state  ]]>
+    </line>
+    <line>
+      <![CDATA[*******************Test Description Covid-009 - Verify  All page links   **************************************]]>
+    </line>
+    <line>
+      <![CDATA[Open Url]]>
+    </line>
+    <line>
+      <![CDATA[Open Url - Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[verfifing And iterating all links]]>
+    </line>
+    <line>
+      <![CDATA[https://www.vorarlberg.at/vorarlberg/bauen_wohnen/bauen/vermessung_geoinformation/weitereinformationen/services/wmsdienste.htm - Moved Permanently - is a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://www.tirol.gv.at/applikationen/e-government/data/nutzungsbedingungen/ - Not Found - is a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://geosrbija.rs/ - is a broken link]]>
+    </line>
+    <line>
+      <![CDATA[https://ngi.dalrrd.gov.za/ - is a broken link]]>
+    </line>
+    <line>
+      <![CDATA[*****************End of Test**************************************************************]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-12T14:14:40 IST" name="Default suite" finished-at="2024-09-12T14:17:43 IST" duration-ms="183085">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T14:14:40 IST" name="Default test" finished-at="2024-09-12T14:17:43 IST" duration-ms="183085">
+      <class name="com.Test.CoidTrackerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:14:40 IST" name="setUp" finished-at="2024-09-12T14:14:47 IST" duration-ms="7187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWebPageLoadProperly()[pri:0, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:14:47 IST" name="verifyWebPageLoadProperly" finished-at="2024-09-12T14:15:07 IST" duration-ms="20361" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-001 - Verify the web page loaded properly    **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Verify the page is loaded with the title of COVID-19 Tracker - India]]>
+            </line>
+            <line>
+              <![CDATA[Verify the page is loaded with the title of COVID-19 Tracker - India - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[verify the non location specified map is shown in base page]]>
+            </line>
+            <line>
+              <![CDATA[ Map is shown in base page- test Passed]]>
+            </line>
+            <line>
+              <![CDATA[*****************End of Test**************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyWebPageLoadProperly -->
+        <test-method signature="verifythedropDown()[pri:1, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:15:07 IST" name="verifythedropDown" finished-at="2024-09-12T14:15:58 IST" duration-ms="50535" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-002 - Verify the drop down    **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[ Click dropdown]]>
+            </line>
+            <line>
+              <![CDATA[ Dropdown Enlarged - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[DropDown Box is expanded- Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Verify the 29 states field available in the drop down box]]>
+            </line>
+            <line>
+              <![CDATA[Verified the 29 states field available in the drop down box - Test Passed with ActualValue - 29]]>
+            </line>
+            <line>
+              <![CDATA[Click each & every field & verify the statiscs is updated for the every field]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Select a State]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Andhra Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Arunachal Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Assam]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Bihar]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Chhattisgarh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Goa]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Gujarat]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Haryana]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Himachal Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Jharkhand]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Karnataka]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Kerala]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Madhya Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Maharashtra]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Manipur]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Meghalaya]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Mizoram]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Nagaland]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Odisha]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Punjab]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Rajasthan]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Sikkim]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Tamil Nadu]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Telangana]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Tripura]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Uttar Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - Uttarakhand]]>
+            </line>
+            <line>
+              <![CDATA[Text values are - West Bengal]]>
+            </line>
+            <line>
+              <![CDATA[Clicked each & every field & verified the statiscs is  getting updated for the every field - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[*****************End of Test**************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifythedropDown -->
+        <test-method signature="verifyFooterElements()[pri:2, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:15:58 IST" name="verifyFooterElements" finished-at="2024-09-12T14:16:02 IST" duration-ms="4591" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-003 - Verify the footer elements   **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Scroll to page bottom]]>
+            </line>
+            <line>
+              <![CDATA[Verify footer Elements displayed]]>
+            </line>
+            <line>
+              <![CDATA[ footer Elements displayed -Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Click lealet ]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to the leaflet page -Test Passed with Title - Leaflet - a JavaScript library for interactive maps]]>
+            </line>
+            <line>
+              <![CDATA[Click Openstreetmap ]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to the Open Street Map -Test Passed with Title - Copyright and License | OpenStreetMap]]>
+            </line>
+            <line>
+              <![CDATA[*****************End of Test**************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFooterElements -->
+        <test-method signature="verifyPieChart()[pri:3, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:16:02 IST" name="verifyPieChart" finished-at="2024-09-12T14:16:12 IST" duration-ms="10170" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='data-filter-input']"}
+  (Session info: chrome=128.0.6613.120)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40b720b7814b37edda6ef77cdaa106a1, findElement {using=xpath, value=//select[@class='data-filter-input']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.120, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Gokul\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57655/devtoo..., se:cdpVersion: 128.0.6613.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40b720b7814b37edda6ef77cdaa106a1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='data-filter-input']"}
+  (Session info: chrome=128.0.6613.120)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40b720b7814b37edda6ef77cdaa106a1, findElement {using=xpath, value=//select[@class='data-filter-input']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.120, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Gokul\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57655/devtoo..., se:cdpVersion: 128.0.6613.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40b720b7814b37edda6ef77cdaa106a1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.getTagName(Unknown Source)
+at org.openqa.selenium.support.ui.Select.<init>(Select.java:43)
+at com.pages.BasePage.selectTagByIndex(BasePage.java:85)
+at com.pages.CovidTrackerPage.clickRandomDropDownvalues(CovidTrackerPage.java:311)
+at com.Test.CoidTrackerTest.verifyPieChart(CoidTrackerTest.java:118)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-006 -Verify the Pie chart   **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Click random state  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPieChart -->
+        <test-method signature="verifyZoomoutandZoomIn()[pri:4, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:16:13 IST" name="verifyZoomoutandZoomIn" finished-at="2024-09-12T14:16:23 IST" duration-ms="10077" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='data-filter-input']"}
+  (Session info: chrome=128.0.6613.120)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40b720b7814b37edda6ef77cdaa106a1, findElement {using=xpath, value=//select[@class='data-filter-input']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.120, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Gokul\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57655/devtoo..., se:cdpVersion: 128.0.6613.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40b720b7814b37edda6ef77cdaa106a1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='data-filter-input']"}
+  (Session info: chrome=128.0.6613.120)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40b720b7814b37edda6ef77cdaa106a1, findElement {using=xpath, value=//select[@class='data-filter-input']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.120, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: C:\Users\Gokul\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57655/devtoo..., se:cdpVersion: 128.0.6613.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40b720b7814b37edda6ef77cdaa106a1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.getTagName(Unknown Source)
+at org.openqa.selenium.support.ui.Select.<init>(Select.java:43)
+at com.pages.BasePage.selectTagByIndex(BasePage.java:85)
+at com.pages.CovidTrackerPage.clickRandomDropDownvalues(CovidTrackerPage.java:311)
+at com.Test.CoidTrackerTest.verifyZoomoutandZoomIn(CoidTrackerTest.java:146)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-007 - Verify  Zoom out and Zoom In Functions  in map  **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Click random state  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyZoomoutandZoomIn -->
+        <test-method signature="VerifyAllpagelinks()[pri:5, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:16:23 IST" name="VerifyAllpagelinks" finished-at="2024-09-12T14:17:42 IST" duration-ms="79302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******************Test Description Covid-009 - Verify  All page links   **************************************]]>
+            </line>
+            <line>
+              <![CDATA[Open Url]]>
+            </line>
+            <line>
+              <![CDATA[Open Url - Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[verfifing And iterating all links]]>
+            </line>
+            <line>
+              <![CDATA[https://www.vorarlberg.at/vorarlberg/bauen_wohnen/bauen/vermessung_geoinformation/weitereinformationen/services/wmsdienste.htm - Moved Permanently - is a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://www.tirol.gv.at/applikationen/e-government/data/nutzungsbedingungen/ - Not Found - is a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://geosrbija.rs/ - is a broken link]]>
+            </line>
+            <line>
+              <![CDATA[https://ngi.dalrrd.gov.za/ - is a broken link]]>
+            </line>
+            <line>
+              <![CDATA[*****************End of Test**************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyAllpagelinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.CoidTrackerTest@4c12331b]" started-at="2024-09-12T14:17:42 IST" name="tearDown" finished-at="2024-09-12T14:17:43 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.CoidTrackerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
